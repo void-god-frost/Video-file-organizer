@@ -7,7 +7,7 @@ large media libraries.
 
 ## Features 
 - Recursive Scanning: uses 'os.walk' to traverse through all subfolders.
-- Path Sanitization: uses Automatically handles dragged and dropped or inputed
+- Path Sanitization: uses Automatically handled dragged and dropped or inputed
 paths by stripping quotes.
 - Targeted Filtering: Isolates video formats ('.mkv', '.mp4', '.avi') from non-video
 files.
