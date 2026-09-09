@@ -1,5 +1,5 @@
 # Video-File-Organizer
-V 0.0.01
+- V 0.0.01
 A python automation tool that recursively scans nested subdirectories, filters video files,
 and consolidates them into a target directory. Built to eliminate manual file management for
 large media libraries.
