@@ -9,7 +9,7 @@ large media libraries.
 paths by stripping quotes.
 - Targeted Filtering: Isolates video formats ('.mkv', '.mp4', '.avi') from non-video
 files.
-- Safety First: ** Prompts for confirmation before moving files to prevent accidental relocation.
+- Safety First: Prompts for confirmation before moving files to prevent accidental relocation.
 
 ## How to Run
 1. Open Command Prompt.
